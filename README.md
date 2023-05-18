@@ -7,4 +7,4 @@ Taller #1
 - Integrante 3: Magallanes Kevin
 
 ## Evidencia
-!["Integrante 2"]("Integrante2 evidencia.png")
+![Integrante 2](Integrante2%20evidencia.png)
